@@ -1,7 +1,7 @@
 name: Foil Stamping in NYC
 favicon: null
-layout_spectrum: 0.23569791624322534
-typography_spectrum: 0.7836492015048862
+layout_spectrum: 0.28098
+typography_spectrum: 0.63011
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5
+  brandStrength: 0.9375
   lightness: 0.4916821711231023
   saturation: 0.5
   rhythmicContrast: 0.3945500343106687

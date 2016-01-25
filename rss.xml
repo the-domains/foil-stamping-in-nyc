@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Foil Stamping in NYC]]></title>
         <description><![CDATA[Foil Stamping in NYC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/foil-stamping-in-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 18:19:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 19:22:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/foil-stamping-in-nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/759c60d5-efdd-4b02-b623-e5959005712c.jpg">]]></description>
-            <link>undefined5d7138bd-a587-4abf-9b52-9f16dd246f5a/index.html</link>
+            <title><![CDATA[Foil Stamping in NYC]]></title>
+            <description><![CDATA[<article><h1>Foil Stamping in NYC</h1><p>Foil Stamping in  NYC</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71799136260c4374f2fea0717ceebeacd7020f5c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/foil-stamping-in-nyc/5d7138bd-a587-4abf-9b52-9f16dd246f5a/index.html</link>
             <guid isPermaLink="false">5d7138bd-a587-4abf-9b52-9f16dd246f5a</guid>
-            <pubDate>Mon, 25 Jan 2016 18:19:34 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 19:22:01 GMT</pubDate>
         </item>
     </channel>
 </rss>

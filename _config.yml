@@ -1,28 +1,40 @@
-name: Foil Stamping in NYC
-favicon: null
 layout_spectrum: 0.28098
-typography_spectrum: 0.63011
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4103943
+  lightness: 0.3100359
+  brandStrength: 0.25
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.25
-  lightness: 0.875
-  saturation: 1
-  rhythmicContrast: 0.3945500343106687
-purpose: []
+  rhythmicContrast: 0.2921147
+typography_spectrum: 0.63011
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Foil Stamping in NYC

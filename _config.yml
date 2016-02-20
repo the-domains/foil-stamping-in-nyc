@@ -1,41 +1,41 @@
-name: Foil Stamping in NYC
-favicon: null
-layout_spectrum: 0.60581
-typography_spectrum: 0.95915
+title: Professional Hot Foil Stamping In NYC  www.foilstamping.nyc  718-749-3520
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Professional Hot Foil Stamping In NYC  www.foilstamping.nyc  718-749-3520
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5625
+  brandStrength: 0.8207885
+  lightness: 0.5
   brandColors:
     - '#ce563e'
     - '#75170f'
     - '#e7a571'
     - '#d5e5f5'
     - '#355456'
-  brandStrength: 0.125
-  lightness: 0.5
-  saturation: 0.5625
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.1917563
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Foil Stamping in NYC
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.95915
+layout_spectrum: 0.60581
